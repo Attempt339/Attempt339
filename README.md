@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Attempt339
-- 👀 I’m interested in servers <error>
+- 👀 I’m interested in servers {error}
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on <error>
-- 📫 How to reach me <error>
+- 💞️ I’m looking to collaborate on {error} 
+- 📫 How to reach me {error}
 - 😄 Pronouns: I/ME
-- ⚡ Fun fact: <error>
+- ⚡ Fun fact: {error}
 
 <!---
 Attempt339/Attempt339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

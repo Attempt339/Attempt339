@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Attempt339
-- 👀 I’m interested in computers
+- 👀 I’m interested in servers <error>
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on <error>
 - 📫 How to reach me <error>
